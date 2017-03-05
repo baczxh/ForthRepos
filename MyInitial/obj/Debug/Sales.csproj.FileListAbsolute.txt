@@ -1,7 +1,6 @@
 C:\ForthRepos\MyInitial\bin\Debug\MyNameSpace.exe.config
 C:\ForthRepos\MyInitial\bin\Debug\MyNameSpace.exe
 C:\ForthRepos\MyInitial\bin\Debug\MyNameSpace.pdb
-C:\ForthRepos\MyInitial\obj\Debug\Sales.csprojResolveAssemblyReference.cache
 C:\ForthRepos\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
 C:\ForthRepos\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
 C:\ForthRepos\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
