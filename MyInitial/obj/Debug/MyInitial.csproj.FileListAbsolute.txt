@@ -28,3 +28,15 @@ D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyN
 D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
 D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
 D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
+C:\ForthRepos\MyInitial\bin\Debug\MyNameSpace.exe.config
+C:\ForthRepos\MyInitial\obj\Debug\MyNameSpace.exe
+C:\ForthRepos\MyInitial\obj\Debug\MyNameSpace.pdb
+C:\ForthRepos\MyInitial\bin\Debug\MyNameSpace.exe
+C:\ForthRepos\MyInitial\bin\Debug\MyNameSpace.pdb
+C:\ForthRepos\MyInitial\obj\Debug\MyInitial.csprojResolveAssemblyReference.cache
+C:\ForthRepos\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+C:\ForthRepos\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+C:\ForthRepos\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+C:\ForthRepos\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+C:\ForthRepos\MyInitial\obj\Debug\Ticketing.TicketsForm.resources
+C:\ForthRepos\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
