@@ -9,3 +9,4 @@ C:\ForthRepos\MyInitial\obj\Debug\Ticketing.TicketsForm.resources
 C:\ForthRepos\MyInitial\obj\Debug\Sales.csproj.GenerateResource.Cache
 C:\ForthRepos\MyInitial\obj\Debug\MyNameSpace.exe
 C:\ForthRepos\MyInitial\obj\Debug\MyNameSpace.pdb
+C:\ForthRepos\MyInitial\obj\Debug\Sales.csprojResolveAssemblyReference.cache

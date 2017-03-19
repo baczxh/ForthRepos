@@ -142,12 +142,15 @@
             // ckbChild
             // 
             this.ckbChild.AutoSize = true;
+            this.ckbChild.Checked = true;
+            this.ckbChild.CheckState = System.Windows.Forms.CheckState.Checked;
             this.ckbChild.Location = new System.Drawing.Point(259, 95);
             this.ckbChild.Name = "ckbChild";
             this.ckbChild.Size = new System.Drawing.Size(49, 17);
             this.ckbChild.TabIndex = 11;
             this.ckbChild.Text = "Child";
             this.ckbChild.UseVisualStyleBackColor = true;
+            this.ckbChild.CheckedChanged += new System.EventHandler(this.ckbChild_CheckedChanged);
             // 
             // TicketsForm
             // 
